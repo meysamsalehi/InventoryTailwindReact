@@ -1,0 +1,11 @@
+/* @import url("/src/fonts.css"); */
+@import url("assets/css/fontiran.css");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    background-color:#ffffff;
+}
